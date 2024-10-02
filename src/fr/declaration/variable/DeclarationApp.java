@@ -5,7 +5,7 @@ public class DeclarationApp {
         byte a = 1;
         short b = 1;
         int c = 1;
-        long d = 1;
+        long d = 1L;
         float e = 2.2F;
         double f = 1.0d;
         char g = 'G';
