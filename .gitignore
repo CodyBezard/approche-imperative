@@ -30,5 +30,5 @@ bin/
 
 ### Ignore TP1 ###
 .idea
-approche-imperative.iml
+*.iml
 out
